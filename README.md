@@ -95,6 +95,7 @@ DATABASES = {
 
 
 ### Setting up relations
+- Note its easier to setup user models at the beginning then adding it later, so think up your models before you start coding!
 
 ```
 from django.db import models

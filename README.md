@@ -18,6 +18,20 @@ virtualenv .env -p python3
 source .env/bin/activate
 ```
 
+- Setup ```.gitignore```
+
+```
+touch .gitignore
+```
+
+- add ```.env``` inside the .gitignore, now you initalize git and make your first commit.  
+
+### Installing modules from a cloned Repo
+
+- Start an environment 
+- ```pip3 install -r requirements.txt```
+
+
 ### **Django admin commands**
 
 - To start a project 

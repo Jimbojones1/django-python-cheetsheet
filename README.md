@@ -33,7 +33,7 @@ touch .gitignore
 
 
 
-### Adding Modules and Creating Requirements.txt
+### Adding Modules in your environment and Creating Requirements.txt
 
 ```pip3 freeze > requirements.txt```
 

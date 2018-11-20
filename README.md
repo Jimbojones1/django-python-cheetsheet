@@ -32,6 +32,11 @@ touch .gitignore
 - ```pip3 install -r requirements.txt```
 
 
+
+### Adding Modules and Creating Requirements.txt
+
+```pip3 freeze > requirements.txt```
+
 ### **Django admin commands**
 
 - To start a project 
